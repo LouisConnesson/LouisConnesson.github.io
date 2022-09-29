@@ -19,10 +19,12 @@ body {
   -webkit-text-fill-color: transparent; }
   video {
  vertical-align: middle;
+    background-image: url(images/download.gif);
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: center;
 }
-ul {
-  
-}
+
 ::-moz-selection {
   background: #000;
   color: #fff; }
